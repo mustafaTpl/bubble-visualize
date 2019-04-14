@@ -1,7 +1,7 @@
 lines = [];
 
 function setup() {
-  createCanvas(200, 200);
+  createCanvas(600, 500);
   for (let index = 0; index < width; index++) {
     lines.push(index);
     //console.log(lines[index]);
